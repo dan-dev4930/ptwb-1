@@ -1,0 +1,20 @@
+Step 1: Initial Face
+Choose any side of the Rubik's Cube as your starting face. Typically, people start with either the white or the yellow face.
+
+Step 2: Solving the Cross
+On the initial face, assemble a cross using the edge pieces of different colors located on its sides. Align each edge piece so that the color of its center matches the corresponding color on the face.
+
+Step 3: Solving the First Layer Corners
+Rotate the cube so that the corner pieces on the sides match the colors of the adjacent edges. Then, move the corners to their correct positions, aligning them with the colors of the neighboring sides.
+
+Step 4: Solving the Second Layer
+Focus on solving the second layer. Find the second-layer elements that are not in their correct positions and place them accordingly, matching their colors with the adjacent sides.
+
+Step 5: Solving the Cross on the Top Layer
+Rotate the cube so that the top face becomes the main focus. Assemble a cross on the top face, just like you did in Step 2, but now taking into account the orientation of the center elements.
+
+Step 6: Positioning the Top Layer Corners
+If the top layer corners are not in their correct positions, repeat the following algorithm: R' D' R D. This algorithm will cycle the corners until they reach their appropriate positions.
+
+Step 7: Positioning the Top Layer Edges
+If the top layer edges are not in their correct positions, repeat the following algorithm: R U R' U R U2 R'. This algorithm will help you position the top layer edges.
